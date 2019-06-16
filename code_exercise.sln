@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "code_exercise", "code_exercise\code_exercise.vcxproj", "{CB3F7FD9-FABF-4D72-B154-3DBAB8AB2B44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sword_offer", "sword_offer", "{5F2D7CAE-D6B9-437E-8991-22488DA7B7D0}"
+	ProjectSection(SolutionItems) = preProject
+		code_exercise\03_findduplication.cpp = code_exercise\03_findduplication.cpp
+		code_exercise\04_find_matrix.cpp = code_exercise\04_find_matrix.cpp
+		code_exercise\05_change_blank.cpp = code_exercise\05_change_blank.cpp
+		code_exercise\anser_03_findduplication.cpp = code_exercise\anser_03_findduplication.cpp
+		code_exercise\anser_04_find_metrix.cpp = code_exercise\anser_04_find_metrix.cpp
+		code_exercise\anser_05_change_blank.cpp = code_exercise\anser_05_change_blank.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data_struct", "data_struct", "{3797BE23-13E7-4959-A2BE-840D1D68D0AE}"
+	ProjectSection(SolutionItems) = preProject
+		code_exercise\list_ptr.cpp = code_exercise\list_ptr.cpp
+		code_exercise\list_ptr.h = code_exercise\list_ptr.h
+		code_exercise\list_struct.cpp = code_exercise\list_struct.cpp
+		code_exercise\list_struct_stl.cpp = code_exercise\list_struct_stl.cpp
+		code_exercise\stack_stl.cpp = code_exercise\stack_stl.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB3F7FD9-FABF-4D72-B154-3DBAB8AB2B44}.Debug|x64.ActiveCfg = Debug|x64
+		{CB3F7FD9-FABF-4D72-B154-3DBAB8AB2B44}.Debug|x64.Build.0 = Debug|x64
+		{CB3F7FD9-FABF-4D72-B154-3DBAB8AB2B44}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB3F7FD9-FABF-4D72-B154-3DBAB8AB2B44}.Debug|x86.Build.0 = Debug|Win32
+		{CB3F7FD9-FABF-4D72-B154-3DBAB8AB2B44}.Release|x64.ActiveCfg = Release|x64
+		{CB3F7FD9-FABF-4D72-B154-3DBAB8AB2B44}.Release|x64.Build.0 = Release|x64
+		{CB3F7FD9-FABF-4D72-B154-3DBAB8AB2B44}.Release|x86.ActiveCfg = Release|Win32
+		{CB3F7FD9-FABF-4D72-B154-3DBAB8AB2B44}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1050AB8A-1D93-4A7F-B337-3838BF2C7474}
+	EndGlobalSection
+EndGlobal
